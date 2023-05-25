@@ -1,0 +1,582 @@
+Train set number: 21
+Locomotive of the train set:
+Locomotive that can carry 8 cars, has max weight 620694 and has a 
+grid limit of 3 electrified cars, and has an ID 47ab8580-e165-42c6-bef7-21f25338b9b6
+Cars of the train set:
+1. Railroad restaurant car with 6 tables, a food weight of 380 and a gross weight of 
+5388 and a pest infestation level of 2
+2. Passenger railroad car carrying 52 people with a gross weight of 10617
+3. Baggage and mail railroad car transporting 1167 of baggage and mail and has a gross 
+weight of 13167
+4. Baggage and mail railroad car transporting 1188 of baggage and mail and has a gross 
+weight of 13188
+5. Passenger railroad car carrying 47 people with a gross weight of 13254
+6. Liquid railroad freight car hauling Pharmaceuticals with purity of 163 and transparency of Transparent
+7. Toxic liquid Heavy railroad freight car hauling Toluene with a weight 33455 and gross weight 
+52913 with a toxicity level of Low toxicity and viscosity 
+level of Low viscosity with a contamination severity of 20 points
+8. Explosive Heavy railroad car hauling Smokeless powder with a weight of 53124 with an explosivity level of Low explosive and 
+with impact sensitivity of Insensitive with a degradation level of 10 points
+Total distance: 17709.10047391461 km
+Distance covered: 2062.8575475659964 km
+Distance covered percent: 11.65%
+Total weight: 190468 kg
+
+Train set number: 22
+Locomotive of the train set:
+Locomotive that can carry 8 cars, has max weight 532029 and has a 
+grid limit of 6 electrified cars, and has an ID 667ad866-eab0-4238-a0ac-5fded4421627
+Cars of the train set:
+1. Passenger railroad car carrying 9 people with a gross weight of 6968
+2. Railroad restaurant car with 11 tables, a food weight of 25 and a gross weight of 
+8714 and a pest infestation level of 2
+3. Passenger railroad car carrying 5 people with a gross weight of 8931
+4. Passenger railroad car carrying 44 people with a gross weight of 12365
+5. Basic railroad freight car hauling Raw sugar of net weight 21513 and gross weight 27513 with a quality of Excellent and freshness of 25 units.
+6. Gaseous basic freight railroad car hauling Chlorine with a flammability level of 
+Non-flammable and with pressure of Low pressure
+7. Explosive Heavy railroad car hauling Mercury fulminate with a weight of 46148 with an explosivity level of Primary explosive and 
+with impact sensitivity of Very sensitive with a degradation level of 40 points
+8. Toxic Heavy railroad freight car hauling Uranium oxide with a weight 76539 and gross weight 
+88539 with a toxicity level of High toxicity and with reactivity of 
+Low reactivity and corrosion level of 24 points
+Total distance: 17600.199229997277 km
+Distance covered: 1786.3021254874466 km
+Distance covered percent: 10.15%
+Total weight: 241117 kg
+
+Train set number: 11
+Locomotive of the train set:
+Locomotive that can carry 5 cars, has max weight 614416 and has a 
+grid limit of 4 electrified cars, and has an ID 4f6dd35c-0936-4cdc-8cbb-549b5d3041e3
+Cars of the train set:
+1. Railroad post office with 11 employees, carrying 106 shipments with a total weight of 1060 and a gross weight of 3795
+2. Railroad post office with 12 employees, carrying 111 shipments with a total weight of 1110 and a gross weight of 4699
+3. Baggage and mail railroad car transporting 1295 of baggage and mail and has a gross 
+weight of 13295
+4. Gaseous basic freight railroad car hauling Methane with a flammability level of 
+High flammability and with pressure of High pressure
+5. Toxic liquid Heavy railroad freight car hauling Ammonia with a weight 42230 and gross weight 
+63645 with a toxicity level of Moderate toxicity and viscosity 
+level of Low viscosity with a contamination severity of 0 points
+Total distance: 17307.70477566275 km
+Distance covered: 1525.361943911817 km
+Distance covered percent: 8.81%
+Total weight: 115368 kg
+
+Train set number: 3
+Locomotive of the train set:
+Locomotive that can carry 7 cars, has max weight 353150 and has a 
+grid limit of 6 electrified cars, and has an ID ae447279-0e74-4f7c-95b7-0a6fa843c935
+Cars of the train set:
+1. Railroad post office with 12 employees, carrying 112 shipments with a total weight of 1120 and a gross weight of 3842
+2. Railroad post office with 11 employees, carrying 109 shipments with a total weight of 1090 and a gross weight of 3861
+3. Railroad post office with 11 employees, carrying 110 shipments with a total weight of 1100 and a gross weight of 5681
+4. Liquid railroad freight car hauling Pharmaceuticals with purity of 171 and transparency of Transparent
+5. Refrigerated railroad car hauling Beef with a weight of 29639 of 
+Animal origin with a rot level of 30 points.
+6. Explosive Heavy railroad car hauling C4 with a weight of 35942 with an explosivity level of Secondary explosive and 
+with impact sensitivity of Slightly sensitive with a degradation level of 60 points
+7. Toxic Heavy railroad freight car hauling Mercury chloride with a weight 57988 and gross weight 
+69988 with a toxicity level of High toxicity and with reactivity of 
+Low reactivity and corrosion level of 22 points
+Total distance: 17130.710327024615 km
+Distance covered: 1361.8891232454125 km
+Distance covered percent: 7.95%
+Total weight: 190885 kg
+
+Train set number: 18
+Locomotive of the train set:
+Locomotive that can carry 8 cars, has max weight 686036 and has a 
+grid limit of 4 electrified cars, and has an ID e11870bb-4ec0-4fbf-8102-4a7e470d0b5b
+Cars of the train set:
+1. Baggage and mail railroad car transporting 1103 of baggage and mail and has a gross 
+weight of 13103
+2. Gaseous basic freight railroad car hauling Nitrogen with a flammability level of 
+Non-flammable and with pressure of High pressure
+3. Refrigerated railroad car hauling Beef with a weight of 20768 of 
+Animal origin with a rot level of 0 points.
+4. Explosive Heavy railroad car hauling RDX with a weight of 33627 with an explosivity level of Tertiary explosive and 
+with impact sensitivity of Insensitive with a degradation level of 22 points
+5. Toxic liquid Heavy railroad freight car hauling Toluene with a weight 35963 and gross weight 
+56874 with a toxicity level of Low toxicity and viscosity 
+level of Low viscosity with a contamination severity of 22 points
+6. Toxic liquid Heavy railroad freight car hauling Hydrochloric acid with a weight 35913 and gross weight 
+61601 with a toxicity level of High toxicity and viscosity 
+level of Low viscosity with a contamination severity of 20 points
+7. Toxic liquid Heavy railroad freight car hauling Formaldehyde with a weight 46528 and gross weight 
+70054 with a toxicity level of High toxicity and viscosity 
+level of Low viscosity with a contamination severity of 20 points
+8. Heavy railroad freight car hauling Lumber with a weight 78067 and gross weight 
+90067
+Total distance: 16269.047121872427 km
+Distance covered: 1742.4260492593735 km
+Distance covered percent: 10.71%
+Total weight: 380387 kg
+
+Train set number: 23
+Locomotive of the train set:
+Locomotive that can carry 9 cars, has max weight 479370 and has a 
+grid limit of 4 electrified cars, and has an ID 3412dcff-d0cb-41c9-af22-09a178aacace
+Cars of the train set:
+1. Railroad restaurant car with 8 tables, a food weight of 39 and a gross weight of 
+6502 and a pest infestation level of 3
+2. Railroad restaurant car with 2 tables, a food weight of 149 and a gross weight of 
+9159 and a pest infestation level of 1
+3. Gaseous basic freight railroad car hauling CNG with a flammability level of 
+High flammability and with pressure of High pressure
+4. Refrigerated railroad car hauling Ice cream with a weight of 15188 of 
+Mixed origin with a rot level of 0 points.
+5. Liquid railroad freight car hauling Fertilizer with purity of 179 and transparency of Transparent
+6. Liquid railroad freight car hauling Textiles with purity of 174 and transparency of Transparent
+7. Gaseous basic freight railroad car hauling Chlorine with a flammability level of 
+Non-flammable and with pressure of Low pressure
+8. Toxic Heavy railroad freight car hauling Uranium oxide with a weight 40567 and gross weight 
+52567 with a toxicity level of High toxicity and with reactivity of 
+Low reactivity and corrosion level of 25 points
+9. Toxic Heavy railroad freight car hauling Mercury chloride with a weight 65021 and gross weight 
+77021 with a toxicity level of High toxicity and with reactivity of 
+Low reactivity and corrosion level of 25 points
+Total distance: 16162.430572885949 km
+Distance covered: 2194.095111047619 km
+Distance covered percent: 13.58%
+Total weight: 280489 kg
+
+Train set number: 8
+Locomotive of the train set:
+Locomotive that can carry 7 cars, has max weight 312419 and has a 
+grid limit of 5 electrified cars, and has an ID 5b720139-fd04-4c12-bea9-cb1bc82c9895
+Cars of the train set:
+1. Liquid railroad freight car hauling Pharmaceuticals with purity of 156 and transparency of Transparent
+2. Liquid railroad freight car hauling Fertilizer with purity of 162 and transparency of Transparent
+3. Heavy railroad freight car hauling Lumber with a weight 32840 and gross weight 
+44840
+4. Toxic Heavy railroad freight car hauling Asbestos with a weight 69387 and gross weight 
+81387 with a toxicity level of Non-toxic and with reactivity of 
+Non-reactive and corrosion level of 0 points
+5. Toxic liquid Heavy railroad freight car hauling Ammonia with a weight 63112 and gross weight 
+90740 with a toxicity level of Moderate toxicity and viscosity 
+level of Low viscosity with a contamination severity of 10 points
+Total distance: 16109.79029320506 km
+Distance covered: 945.4476355359704 km
+Distance covered percent: 5.87%
+Total weight: 281235 kg
+
+Train set number: 5
+Locomotive of the train set:
+Locomotive that can carry 8 cars, has max weight 378835 and has a 
+grid limit of 4 electrified cars, and has an ID ca4050e2-9ddf-4fe2-8b1f-10aaa5d29b0d
+Cars of the train set:
+1. Railroad post office with 11 employees, carrying 107 shipments with a total weight of 1070 and a gross weight of 5486
+2. Railroad restaurant car with 10 tables, a food weight of 42 and a gross weight of 
+7505 and a pest infestation level of 2
+3. Railroad post office with 14 employees, carrying 132 shipments with a total weight of 1320 and a gross weight of 7931
+4. Baggage and mail railroad car transporting 849 of baggage and mail and has a gross 
+weight of 12849
+5. Baggage and mail railroad car transporting 881 of baggage and mail and has a gross 
+weight of 12881
+6. Baggage and mail railroad car transporting 1056 of baggage and mail and has a gross 
+weight of 13056
+7. Gaseous basic freight railroad car hauling Nitrogen with a flammability level of 
+Non-flammable and with pressure of High pressure
+8. Heavy railroad freight car hauling Lumber with a weight 67866 and gross weight 
+79866
+Total distance: 16094.327567816556 km
+Distance covered: 1786.3021254874466 km
+Distance covered percent: 11.10%
+Total weight: 161263 kg
+
+Train set number: 10
+Locomotive of the train set:
+Locomotive that can carry 8 cars, has max weight 419283 and has a 
+grid limit of 4 electrified cars, and has an ID a014e7a7-8591-4bae-b978-0b7a60c5d8dc
+Cars of the train set:
+1. Railroad restaurant car with 4 tables, a food weight of 216 and a gross weight of 
+6260 and a pest infestation level of 3
+2. Basic railroad freight car hauling Raw sugar of net weight 10494 and gross weight 16494 with a quality of Poor and freshness of 20 units.
+3. Basic railroad freight car hauling Pharmaceuticals of net weight 16999 and gross weight 22999 with a quality of Poor and freshness of 12 units.
+4. Basic railroad freight car hauling Textiles of net weight 22939 and gross weight 28939 with a quality of Poor and freshness of 10 units.
+5. Liquid railroad freight car hauling Fertilizer with purity of 175 and transparency of Transparent
+6. Toxic Heavy railroad freight car hauling Uranium oxide with a weight 54541 and gross weight 
+66541 with a toxicity level of High toxicity and with reactivity of 
+Low reactivity and corrosion level of 27 points
+7. Toxic Heavy railroad freight car hauling Asbestos with a weight 57721 and gross weight 
+69721 with a toxicity level of Non-toxic and with reactivity of 
+Non-reactive and corrosion level of 0 points
+8. Heavy railroad freight car hauling Building materials with a weight 66109 and gross weight 
+78109
+Total distance: 15606.522355446034 km
+Distance covered: 2323.165512557536 km
+Distance covered percent: 14.89%
+Total weight: 320314 kg
+
+Train set number: 17
+Locomotive of the train set:
+Locomotive that can carry 8 cars, has max weight 659908 and has a 
+grid limit of 2 electrified cars, and has an ID d978e47e-e9c4-4b08-98fd-dc98ca4dc475
+Cars of the train set:
+1. Railroad restaurant car with 7 tables, a food weight of 361 and a gross weight of 
+10195 and a pest infestation level of 1
+2. Liquid railroad freight car hauling Textiles with purity of 185 and transparency of Transparent
+3. Refrigerated railroad car hauling Ice cream with a weight of 16137 of 
+Mixed origin with a rot level of 30 points.
+4. Basic railroad freight car hauling Plastic pellets of net weight 17239 and gross weight 23239 with a quality of Poor and freshness of 20 units.
+5. Toxic Heavy railroad freight car hauling Arsenic with a weight 32564 and gross weight 
+44564 with a toxicity level of High toxicity and with reactivity of 
+Medium reactivity and corrosion level of 40 points
+6. Heavy railroad freight car hauling Sand with a weight 68239 and gross weight 
+80239
+7. Heavy railroad freight car hauling Rebar with a weight 77020 and gross weight 
+89020
+Total distance: 15508.88868408471 km
+Distance covered: 1927.3491988015194 km
+Distance covered percent: 12.43%
+Total weight: 285973 kg
+
+Train set number: 12
+Locomotive of the train set:
+Locomotive that can carry 8 cars, has max weight 277915 and has a 
+grid limit of 2 electrified cars, and has an ID 3ebcdc7b-80cc-456f-bdcc-e22de358738f
+Cars of the train set:
+1. Liquid railroad freight car hauling Textiles with purity of 169 and transparency of Transparent
+2. Refrigerated railroad car hauling Beef with a weight of 13404 of 
+Animal origin with a rot level of 10 points.
+3. Refrigerated railroad car hauling Beef with a weight of 15972 of 
+Animal origin with a rot level of 40 points.
+4. Gaseous basic freight railroad car hauling Methane with a flammability level of 
+High flammability and with pressure of High pressure
+5. Liquid railroad freight car hauling Raw sugar with purity of 176 and transparency of Transparent
+6. Gaseous basic freight railroad car hauling CNG with a flammability level of 
+High flammability and with pressure of High pressure
+7. Toxic Heavy railroad freight car hauling Mercury chloride with a weight 68142 and gross weight 
+80142 with a toxicity level of High toxicity and with reactivity of 
+Low reactivity and corrosion level of 15 points
+Total distance: 15477.935383328444 km
+Distance covered: 1737.2899608124146 km
+Distance covered percent: 11.22%
+Total weight: 229477 kg
+
+Train set number: 2
+Locomotive of the train set:
+Locomotive that can carry 6 cars, has max weight 468771 and has a 
+grid limit of 3 electrified cars, and has an ID 02e44bea-defb-4abc-b79a-92206f4ab4e3
+Cars of the train set:
+1. Passenger railroad car carrying 50 people with a gross weight of 13317
+2. Basic railroad freight car hauling Textiles of net weight 11164 and gross weight 17164 with a quality of Poor and freshness of 17 units.
+3. Refrigerated railroad car hauling Tofu with a weight of 11969 of 
+Plant origin with a rot level of 40 points.
+4. Refrigerated railroad car hauling Ice cream with a weight of 15252 of 
+Mixed origin with a rot level of 0 points.
+5. Heavy railroad freight car hauling Building materials with a weight 35051 and gross weight 
+47051
+6. Heavy railroad freight car hauling Automobiles with a weight 70708 and gross weight 
+82708
+Total distance: 13907.884869875637 km
+Distance covered: 2196.531217962791 km
+Distance covered percent: 15.79%
+Total weight: 199461 kg
+
+Train set number: 19
+Locomotive of the train set:
+Locomotive that can carry 7 cars, has max weight 304202 and has a 
+grid limit of 3 electrified cars, and has an ID c716374e-d904-4152-ab33-7b4a35e65b42
+Cars of the train set:
+1. Passenger railroad car carrying 17 people with a gross weight of 6799
+2. Baggage and mail railroad car transporting 1298 of baggage and mail and has a gross 
+weight of 13298
+3. Basic railroad freight car hauling Plastic pellets of net weight 12212 and gross weight 18212 with a quality of Excellent and freshness of 28 units.
+4. Liquid railroad freight car hauling Textiles with purity of 189 and transparency of Transparent
+5. Refrigerated railroad car hauling Ice cream with a weight of 29204 of 
+Mixed origin with a rot level of 60 points.
+6. Explosive Heavy railroad car hauling Smokeless powder with a weight of 42285 with an explosivity level of Low explosive and 
+with impact sensitivity of Insensitive with a degradation level of 26 points
+7. Explosive Heavy railroad car hauling RDX with a weight of 70344 with an explosivity level of Tertiary explosive and 
+with impact sensitivity of Insensitive with a degradation level of 26 points
+Total distance: 13163.89376137504 km
+Distance covered: 1784.2324600420536 km
+Distance covered percent: 13.55%
+Total weight: 233426 kg
+
+Train set number: 13
+Locomotive of the train set:
+Locomotive that can carry 9 cars, has max weight 356792 and has a 
+grid limit of 5 electrified cars, and has an ID 9303cde6-99b6-4c23-adfa-3e731171e52a
+Cars of the train set:
+1. Passenger railroad car carrying 6 people with a gross weight of 7571
+2. Baggage and mail railroad car transporting 1493 of baggage and mail and has a gross 
+weight of 13493
+3. Refrigerated railroad car hauling Beef with a weight of 10930 of 
+Animal origin with a rot level of 50 points.
+4. Gaseous basic freight railroad car hauling Methane with a flammability level of 
+High flammability and with pressure of High pressure
+5. Liquid railroad freight car hauling Pharmaceuticals with purity of 186 and transparency of Transparent
+6. Refrigerated railroad car hauling Tofu with a weight of 25816 of 
+Plant origin with a rot level of 0 points.
+7. Heavy railroad freight car hauling Rebar with a weight 44065 and gross weight 
+56065
+8. Explosive Heavy railroad car hauling RDX with a weight of 60522 with an explosivity level of Tertiary explosive and 
+with impact sensitivity of Insensitive with a degradation level of 24 points
+9. Heavy railroad freight car hauling Building materials with a weight 75535 and gross weight 
+87535
+Total distance: 11814.221494694684 km
+Distance covered: 1919.2983184390316 km
+Distance covered percent: 16.25%
+Total weight: 334744 kg
+
+Train set number: 24
+Locomotive of the train set:
+Locomotive that can carry 5 cars, has max weight 430459 and has a 
+grid limit of 6 electrified cars, and has an ID 8a4b8429-5e50-4cca-8ced-4f072f8e2dbd
+Cars of the train set:
+1. Railroad restaurant car with 10 tables, a food weight of 84 and a gross weight of 
+7302 and a pest infestation level of 2
+2. Passenger railroad car carrying 17 people with a gross weight of 8676
+3. Baggage and mail railroad car transporting 1336 of baggage and mail and has a gross 
+weight of 13336
+4. Refrigerated railroad car hauling Beef with a weight of 20229 of 
+Animal origin with a rot level of 0 points.
+5. Explosive Heavy railroad car hauling C4 with a weight of 30286 with an explosivity level of Secondary explosive and 
+with impact sensitivity of Slightly sensitive with a degradation level of 70 points
+Total distance: 5748.6696871993545 km
+Distance covered: 2058.3926440567266 km
+Distance covered percent: 35.81%
+Total weight: 97829 kg
+
+Train set number: 6
+Locomotive of the train set:
+Locomotive that can carry 5 cars, has max weight 274944 and has a 
+grid limit of 3 electrified cars, and has an ID ef7ac80b-c6ca-4824-9218-86b60e5f13ed
+Cars of the train set:
+1. Railroad post office with 12 employees, carrying 118 shipments with a total weight of 1180 and a gross weight of 6083
+2. Basic railroad freight car hauling Fertilizer of net weight 18825 and gross weight 24825 with a quality of Poor and freshness of 22 units.
+3. Explosive Heavy railroad car hauling TNT with a weight of 47110 with an explosivity level of High explosive and 
+with impact sensitivity of Slightly sensitive with a degradation level of 25 points
+4. Toxic liquid Heavy railroad freight car hauling Ammonia with a weight 50012 and gross weight 
+76312 with a toxicity level of Moderate toxicity and viscosity 
+level of Low viscosity with a contamination severity of 25 points
+5. Heavy railroad freight car hauling Building materials with a weight 74065 and gross weight 
+86065
+Total distance: 4626.646645786636 km
+Distance covered: 2353.3425229125623 km
+Distance covered percent: 50.86%
+Total weight: 252395 kg
+
+Train set number: 20
+Locomotive of the train set:
+Locomotive that can carry 6 cars, has max weight 645349 and has a 
+grid limit of 2 electrified cars, and has an ID 88d6ff08-c7f0-4cb5-93bf-3edaa57f97a4
+Cars of the train set:
+1. Railroad post office with 12 employees, carrying 115 shipments with a total weight of 1150 and a gross weight of 4582
+2. Baggage and mail railroad car transporting 867 of baggage and mail and has a gross 
+weight of 12867
+3. Gaseous basic freight railroad car hauling Hydrogen sulfide with a flammability level of 
+High flammability and with pressure of Moderate pressure
+4. Liquid railroad freight car hauling Fertilizer with purity of 163 and transparency of Transparent
+5. Toxic Heavy railroad freight car hauling Uranium oxide with a weight 33520 and gross weight 
+45520 with a toxicity level of High toxicity and with reactivity of 
+Low reactivity and corrosion level of 23 points
+6. Explosive Heavy railroad car hauling RDX with a weight of 78210 with an explosivity level of Tertiary explosive and 
+with impact sensitivity of Insensitive with a degradation level of 23 points
+Total distance: 4235.5970357143415 km
+Distance covered: 2353.3682965083185 km
+Distance covered percent: 55.56%
+Total weight: 206647 kg
+
+Train set number: 4
+Locomotive of the train set:
+Locomotive that can carry 6 cars, has max weight 607202 and has a 
+grid limit of 6 electrified cars, and has an ID eacf4cfb-ce9c-44d7-b19b-9634037a3001
+Cars of the train set:
+1. Railroad restaurant car with 4 tables, a food weight of 97 and a gross weight of 
+6734 and a pest infestation level of 1
+2. Baggage and mail railroad car transporting 1092 of baggage and mail and has a gross 
+weight of 13092
+3. Basic railroad freight car hauling Salt of net weight 15315 and gross weight 21315 with a quality of Poor and freshness of 23 units.
+4. Gaseous basic freight railroad car hauling CNG with a flammability level of 
+High flammability and with pressure of High pressure
+5. Toxic liquid Heavy railroad freight car hauling Ammonia with a weight 33441 and gross weight 
+59603 with a toxicity level of Moderate toxicity and viscosity 
+level of Low viscosity with a contamination severity of 25 points
+6. Toxic liquid Heavy railroad freight car hauling Toluene with a weight 35535 and gross weight 
+62582 with a toxicity level of Low toxicity and viscosity 
+level of Low viscosity with a contamination severity of 5 points
+Total distance: 3679.9656352119455 km
+Distance covered: 2145.3225174306363 km
+Distance covered percent: 58.30%
+Total weight: 194723 kg
+
+Train set number: 16
+Locomotive of the train set:
+Locomotive that can carry 9 cars, has max weight 664029 and has a 
+grid limit of 6 electrified cars, and has an ID e9093f6e-25e9-4939-b048-4154e899f238
+Cars of the train set:
+1. Baggage and mail railroad car transporting 1226 of baggage and mail and has a gross 
+weight of 13226
+2. Refrigerated railroad car hauling Tofu with a weight of 11199 of 
+Plant origin with a rot level of 80 points.
+3. Toxic liquid Heavy railroad freight car hauling Acetone with a weight 22295 and gross weight 
+42184 with a toxicity level of High toxicity and viscosity 
+level of Medium viscosity with a contamination severity of 0 points
+4. Toxic liquid Heavy railroad freight car hauling Toluene with a weight 27660 and gross weight 
+45827 with a toxicity level of Low toxicity and viscosity 
+level of Low viscosity with a contamination severity of 20 points
+5. Toxic liquid Heavy railroad freight car hauling Acetone with a weight 27774 and gross weight 
+49601 with a toxicity level of High toxicity and viscosity 
+level of Medium viscosity with a contamination severity of 0 points
+6. Toxic liquid Heavy railroad freight car hauling Toluene with a weight 31160 and gross weight 
+50109 with a toxicity level of Low toxicity and viscosity 
+level of Low viscosity with a contamination severity of 0 points
+7. Toxic Heavy railroad freight car hauling Sodium hydroxide with a weight 55491 and gross weight 
+67491 with a toxicity level of Moderate toxicity and with reactivity of 
+High reactivity and corrosion level of 0 points
+8. Explosive Heavy railroad car hauling TNT with a weight of 76530 with an explosivity level of High explosive and 
+with impact sensitivity of Slightly sensitive with a degradation level of 50 points
+9. Toxic liquid Heavy railroad freight car hauling Acetone with a weight 63254 and gross weight 
+90135 with a toxicity level of High toxicity and viscosity 
+level of Medium viscosity with a contamination severity of 0 points
+Total distance: 3207.2654363538873 km
+Distance covered: 2002.105476503366 km
+Distance covered percent: 62.42%
+Total weight: 464302 kg
+
+Train set number: 7
+Locomotive of the train set:
+Locomotive that can carry 9 cars, has max weight 553696 and has a 
+grid limit of 4 electrified cars, and has an ID b1cf4a18-9471-4dcd-8c08-95040535d01c
+Cars of the train set:
+1. Passenger railroad car carrying 2 people with a gross weight of 5144
+2. Passenger railroad car carrying 6 people with a gross weight of 7635
+3. Passenger railroad car carrying 44 people with a gross weight of 9104
+4. Baggage and mail railroad car transporting 931 of baggage and mail and has a gross 
+weight of 12931
+5. Gaseous basic freight railroad car hauling CNG with a flammability level of 
+High flammability and with pressure of High pressure
+6. Heavy railroad freight car hauling Rebar with a weight 40705 and gross weight 
+52705
+7. Toxic Heavy railroad freight car hauling Mercury chloride with a weight 60369 and gross weight 
+72369 with a toxicity level of High toxicity and with reactivity of 
+Low reactivity and corrosion level of 14 points
+8. Toxic Heavy railroad freight car hauling Mercury chloride with a weight 66134 and gross weight 
+78134 with a toxicity level of High toxicity and with reactivity of 
+Low reactivity and corrosion level of 24 points
+9. Toxic Heavy railroad freight car hauling Mercury chloride with a weight 72543 and gross weight 
+84543 with a toxicity level of High toxicity and with reactivity of 
+Low reactivity and corrosion level of 24 points
+Total distance: 3178.917832407857 km
+Distance covered: 905.6064473022958 km
+Distance covered percent: 28.49%
+Total weight: 348993 kg
+
+Train set number: 1
+Locomotive of the train set:
+Locomotive that can carry 6 cars, has max weight 389172 and has a 
+grid limit of 4 electrified cars, and has an ID a5057f21-d2c9-4d37-b507-ac2810526e26
+Cars of the train set:
+1. Railroad restaurant car with 3 tables, a food weight of 256 and a gross weight of 
+7778 and a pest infestation level of 3
+2. Gaseous basic freight railroad car hauling Hydrogen sulfide with a flammability level of 
+High flammability and with pressure of Moderate pressure
+3. Refrigerated railroad car hauling Ice cream with a weight of 18517 of 
+Mixed origin with a rot level of 10 points.
+4. Liquid railroad freight car hauling Plastic pellets with purity of 171 and transparency of Transparent
+5. Toxic liquid Heavy railroad freight car hauling Acetone with a weight 37240 and gross weight 
+63939 with a toxicity level of High toxicity and viscosity 
+level of Medium viscosity with a contamination severity of 60 points
+6. Toxic Heavy railroad freight car hauling Mercury chloride with a weight 76629 and gross weight 
+88629 with a toxicity level of High toxicity and with reactivity of 
+Low reactivity and corrosion level of 26 points
+Total distance: 2925.3263175063025 km
+Distance covered: 2310.675440089943 km
+Distance covered percent: 78.99%
+Total weight: 232323 kg
+
+Train set number: 14
+Locomotive of the train set:
+Locomotive that can carry 5 cars, has max weight 433169 and has a 
+grid limit of 4 electrified cars, and has an ID 288c7c21-0bb2-4eac-b44a-0dcd4c559149
+Cars of the train set:
+1. Railroad post office with 13 employees, carrying 122 shipments with a total weight of 1220 and a gross weight of 3350
+2. Gaseous basic freight railroad car hauling Propane with a flammability level of 
+High flammability and with pressure of Moderate pressure
+3. Liquid railroad freight car hauling Plastic pellets with purity of 179 and transparency of Transparent
+4. Toxic liquid Heavy railroad freight car hauling Ammonia with a weight 33676 and gross weight 
+53600 with a toxicity level of Moderate toxicity and viscosity 
+level of Low viscosity with a contamination severity of 55 points
+5. Toxic Heavy railroad freight car hauling Arsenic with a weight 64627 and gross weight 
+76627 with a toxicity level of High toxicity and with reactivity of 
+Medium reactivity and corrosion level of 5 points
+Total distance: 2677.1909424912674 km
+Distance covered: 2012.1627752314243 km
+Distance covered percent: 75.16%
+Total weight: 199938 kg
+
+Train set number: 0
+Locomotive of the train set:
+Locomotive that can carry 7 cars, has max weight 532713 and has a 
+grid limit of 6 electrified cars, and has an ID 1461d554-d258-4f64-b319-a975acbd268e
+Cars of the train set:
+1. Baggage and mail railroad car transporting 1425 of baggage and mail and has a gross 
+weight of 13425
+2. Gaseous basic freight railroad car hauling Chlorine with a flammability level of 
+Non-flammable and with pressure of Low pressure
+3. Refrigerated railroad car hauling Beef with a weight of 17237 of 
+Animal origin with a rot level of 40 points.
+4. Liquid railroad freight car hauling Plastic pellets with purity of 154 and transparency of Transparent
+5. Toxic liquid Heavy railroad freight car hauling Benzene with a weight 31293 and gross weight 
+52247 with a toxicity level of High toxicity and viscosity 
+level of Low viscosity with a contamination severity of 50 points
+6. Toxic liquid Heavy railroad freight car hauling Acetone with a weight 33741 and gross weight 
+62530 with a toxicity level of High toxicity and viscosity 
+level of Medium viscosity with a contamination severity of 50 points
+7. Toxic liquid Heavy railroad freight car hauling Benzene with a weight 53625 and gross weight 
+80958 with a toxicity level of High toxicity and viscosity 
+level of Low viscosity with a contamination severity of 50 points
+Total distance: 2211.746904199503 km
+Distance covered: 1877.421550109993 km
+Distance covered percent: 84.88%
+Total weight: 278130 kg
+
+Train set number: 15
+Locomotive of the train set:
+Locomotive that can carry 8 cars, has max weight 496753 and has a 
+grid limit of 4 electrified cars, and has an ID a6fc4433-6b9b-49fc-b38b-4b5e5d74ae8b
+Cars of the train set:
+1. Railroad post office with 11 employees, carrying 105 shipments with a total weight of 1050 and a gross weight of 7954
+2. Liquid railroad freight car hauling Textiles with purity of 201 and transparency of Transparent
+3. Basic railroad freight car hauling Raw sugar of net weight 16306 and gross weight 22306 with a quality of Excellent and freshness of 26 units.
+4. Toxic Heavy railroad freight car hauling Asbestos with a weight 56428 and gross weight 
+68428 with a toxicity level of Non-toxic and with reactivity of 
+Non-reactive and corrosion level of 0 points
+5. Heavy railroad freight car hauling Sand with a weight 73613 and gross weight 
+85613
+6. Heavy railroad freight car hauling Automobiles with a weight 78269 and gross weight 
+90269
+7. Heavy railroad freight car hauling Iron ore with a weight 78589 and gross weight 
+90589
+8. Heavy railroad freight car hauling Lumber with a weight 79640 and gross weight 
+91640
+Total distance: 2186.6151866161654 km
+Distance covered: 2145.326239997349 km
+Distance covered percent: 98.11%
+Total weight: 476229 kg
+
+Train set number: 9
+Locomotive of the train set:
+Locomotive that can carry 9 cars, has max weight 317646 and has a 
+grid limit of 3 electrified cars, and has an ID 2679aea0-db0d-4139-94d0-db05b25fab15
+Cars of the train set:
+1. Passenger railroad car carrying 11 people with a gross weight of 7423
+2. Passenger railroad car carrying 21 people with a gross weight of 9351
+3. Passenger railroad car carrying 11 people with a gross weight of 10459
+4. Basic railroad freight car hauling Plastic pellets of net weight 24412 and gross weight 30412 with a quality of Excellent and freshness of 37 units.
+5. Liquid railroad freight car hauling Pharmaceuticals with purity of 162 and transparency of Transparent
+6. Liquid railroad freight car hauling Fertilizer with purity of 164 and transparency of Transparent
+7. Heavy railroad freight car hauling Sand with a weight 42472 and gross weight 
+54472
+8. Heavy railroad freight car hauling Automobiles with a weight 74161 and gross weight 
+86161
+Total distance: 1921.841828326583 km
+Distance covered: 808.5098763978864 km
+Distance covered percent: 42.07%
+Total weight: 265765 kg
+
